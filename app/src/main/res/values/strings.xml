@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SqliteExample</string>
+    <string name="text1">Ingrese su nombre</string>
+    <string name="text2">Ingrese su teléfono</string>
+    <string name="btn1">Guardar</string>
+    <string name="btn2">Consultar</string>
+    <string name="msg1">Los datos se han registrado exitosamente</string>
+    <string name="msg2">Hubo un error al cargar los datos</string>
+</resources>
